@@ -3,6 +3,7 @@
     background-position-x: 70vh;
   }
 
+
   #page-home .content {
     align-items: center;
     text-align: center;
@@ -24,6 +25,12 @@
 @media (min-width: 1700px) {
   #page-home{
     background-position-x: 40vh;
+  }
+}
+
+@media (min-width: 2000px){
+  #page-home{
+    background-position-x: 90vh;
   }
 }
 
