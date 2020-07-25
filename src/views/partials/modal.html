@@ -5,6 +5,28 @@
         <a href="#">Fechar</a>
       </div>
 
+      <div class="optionPane">
+        <span>Pesquisar por:</span>
+        <form>
+          
+          <label for="name">
+            <input type="radio" name="option" value="name" checked>
+            Nome da entidade
+          </label>
+          
+          <label for="name">
+            <input type="radio" name="option" value="city">
+            Cidade
+          </label> 
+          
+          <label for="name">
+            <input type="radio" name="option" value="state">
+            Estado
+          </label> 
+          
+        </form>
+      </div>
+
       <form action="/search">
         <div class="search field">
           <input type="text" name="search" placeholder="Pesquisar por cidade">
@@ -15,4 +37,5 @@
       </form>
 
     </div>
+        <script src="/scripts/modal.js"></script>
 </div>
