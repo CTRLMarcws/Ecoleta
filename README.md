@@ -22,5 +22,5 @@ O projeto foi desenvolvido durante a **NLW - Next Level Week** oferecida pela [R
 - [ ] Cadastro de contatos (redes sociais, telefones e etc.)
 - [ ] Tela com cadastro completo
 
-### Licença
+### LICENÇA
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
